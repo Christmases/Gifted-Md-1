@@ -1,4 +1,4 @@
-<h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 2.5.0 </h1> 
+<h1 align="center"> success ᴍᴅ Version 2.5.0 </h1> 
  <br>
 
 
@@ -6,8 +6,8 @@
 <p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ v2.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
+  <a href="https://github.com/mouricedevs/success-Md">
+    <img alt="Gifted docs" height="300" src="https://drive.google.com/file/d/1f-u_5Dwxc4iSLfoZA54S6CEiz6os0vUL/view?usp=drivesdk
   </a>
 </p>
     
@@ -17,8 +17,8 @@
   <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.5.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
-    <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.5.0 is free to use" href="https://github.com/mouricedevs/success-Md" target="_blank">
+    <img alt="GiftedTech" src="https://www.facebook.com/profile.php?id=100075042596141" target="_blank" />
   </a>
 
 </p>
@@ -29,7 +29,7 @@
 
 
 
-<p align="center"> ɢɪғᴛᴇᴅ ᴍᴅ V.2.5.0 uses
+<p align="center"> success ᴍᴅ V.2.5.0 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/mouricedevs/success-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
@@ -74,18 +74,18 @@
 
  <h3>Gifted-MD V.2.5.0 Stats</h3>
 
-![Giftd-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
+![Giftd-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=success &repo=amicable-Md&show_owner=true&theme=dark)
 
 
 
 
     
    
-## Gifted-Md V.2.5.0 Deployment Methods
+## success-mdV.2.5.0 Deployment Methods
 ---
-1.  ***Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
+1.  ***Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/success-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
 2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://session.giftedtechnexus.co.ke) Supports Both QR SCAN And Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
-3. ***Deploy on [`HEROKU`](https://deploy-gifted-md.vercel.app/)***
+3. ***Deploy on [`HEROKU`](https://deploy-success-md.vercel.app/)***
 4.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 5.  ***Deploy on [`Replit`](https://replit.com/github.com/mouricedevs/Gifted-Md)***
 6.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
