@@ -96,11 +96,11 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/NHCZC5DSOEUXB1)
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/+2349159860537)
 
 
 ### I Am
-- [Gifted Tech](https://github.com/mouricedevs) 
+- [Success Tech](https://github.com/mouricedevs) 
 
 ---
 ### Credits to:
