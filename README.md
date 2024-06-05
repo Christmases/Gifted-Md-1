@@ -84,7 +84,7 @@
 ## success-mdV.2.5.0 Deployment Methods
 ---
 1.  ***Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/success-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
-2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://session.giftedtechnexus.co.ke) Supports Both QR SCAN And Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
+2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://web.giftedtechnexus.co.ke/sessions/pair/) Supports Both QR SCAN And Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
 3. ***Deploy on [`HEROKU`](https://web.giftedtechnexus.co.ke/deploy/platforms/heroku/)***
 4.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 5.  ***Deploy on [`Replit`](https://replit.com/github.com/mouricedevs/Gifted-Md)***
@@ -100,7 +100,7 @@
 
 
 ### I Am
-- [Success Tech](https://github.com/mouricedevs) 
+- [Success Tech](https://github.com/success) 
 
 ---
 ### Credits to:
@@ -116,7 +116,7 @@
 </h2>
    
 ## 
-- *Gifted-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *successmd is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Gifted-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`](https://deploy-gifted-md.vercel.app)
