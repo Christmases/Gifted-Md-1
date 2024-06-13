@@ -1,4 +1,4 @@
-<h1 align="center"> success ᴍᴅ Version 2.5.0 </h1> 
+<h1 align="center"> success ᴍᴅ Version 4.5.0 </h1> 
  <br>
 
 
@@ -29,7 +29,7 @@
 
 
 
-<p align="center"> success ᴍᴅ V.2.5.0 uses
+<p align="center"> success ᴍᴅ V.4.5.0 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -81,7 +81,7 @@
 
     
    
-## success-mdV.2.5.0 Deployment Methods
+## success-mdV.4.5.0 Deployment Methods
 ---
 1.  ***Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/success-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
 2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://web.giftedtechnexus.co.ke/sessions/pair/) Supports Both QR SCAN And Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
